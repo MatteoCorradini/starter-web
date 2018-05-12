@@ -8,6 +8,11 @@ Introduction section: this is a web based project just to understand GIT version
 
 ## Purpose
 
+Adding Purpose section
+
 ### Deployment
+
+Adding Deployment section
+Rossi
 
 ## How To Contribute
