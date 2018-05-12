@@ -14,5 +14,6 @@ Adding Purpose section
 
 Adding Deployment section
 Rossi
+Panucci
 
 ## How To Contribute
