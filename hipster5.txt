@@ -1,0 +1,4 @@
+Adding file Hipster5.txt
+aaa
+
+End of file.
